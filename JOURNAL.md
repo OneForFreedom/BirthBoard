@@ -15,6 +15,15 @@ Lets start!
 
 I'm making the scematic, since its an iso, it uses 6x keys. Also this is not my first keyboard that I'm making so I'm pretty chill rn. Almost all my other keyboards turned out thick asf, so this time Ima slim it down - Heavily.
 
-I'll also make an entry every Hour so that the time can be calculated roughly accurately. 
+I'll also make an entry every big occasion so that the time can be calculated roughly accurately. 
 
-Cya!
+Time spent : 0h
+
+
+Entry 2:
+
+The pcb and schematic are done, uhh its been like 4 hours since i wrote my first entry, but I honestly only done 3 hours of actual work.
+                                     
+Uhm ill link some images down there v v
+
+Time Spend : 3h
