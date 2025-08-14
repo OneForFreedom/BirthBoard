@@ -3,6 +3,7 @@ title: BirthBoard
 author: One For Freedom
 description: A birthday cake themed keyboard with a oled counting the days down to your birthday.
 created_at: 14/08/2025 [DD/MM/YYYY]
+Total time spent : 10h
 ---
 
 Did I forget her birthday?...
@@ -26,4 +27,14 @@ The pcb and schematic are done, uhh its been like 4 hours since i wrote my first
                                      
 Uhm ill link some images down there v v
 
-Time Spend : 3h
+Time Spent : 3h
+
+Entry 3: 
+
+I spent 1 hour reseaching parts and grabbing cad files, then i spent another 2 hours actually putting them onto the pcb so that it wouldnt be a hassle later on. Eventually I made this vv
+
+
+Time spent: 3h
+
+Entry 4: I completed the case, It looks pretty awesome. Nothing like I made before. I feel kinda sad that I probably won't ever be able to make something like that. But then again. Making things like the helps me to become a better cadder and pcb maker!
+Here are some images of the case. I really hope you enjoyed it!
