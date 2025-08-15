@@ -37,16 +37,16 @@ Entry 3:
 I spent 1 hour reseaching parts and grabbing cad files, then i spent another 2 hours actually putting them onto the pcb so that it wouldnt be a hassle later on. Eventually I made this vv
 
 ![](Images/3DB.png)
-![](Images/3DD.png)
-![](Images/3DF.png)
 ![](Images/3DFF.png)
+![](Images/3DFM.png)
 
 Time spent: 3h
 
 Entry 4: I completed the case, It looks pretty awesome. Nothing like I made before. I feel kinda sad that I probably won't ever be able to make something like that. But then again. Making things like the helps me to become a better cadder and pcb maker!
 Here are some images of the case. I really hope you enjoyed it!
 
-![](Images/3DFM.png)
+![](Images/3DD.png)
+![](Images/3DF.png)
 ![](Images/3DS.png)
 ![](Images/3DSCU.png)
 ![](Images/3DSM.png)
