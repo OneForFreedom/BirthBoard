@@ -27,8 +27,8 @@ The pcb and schematic are done, uhh its been like 4 hours since i wrote my first
                                      
 Uhm ill link some images down there v v
 
-![](images/PCB.png)
-![](images/Schematic.png)
+![](Images/PCB.png)
+![](Images/Schematic.png)
 
 Time Spent : 3h
 
@@ -36,21 +36,21 @@ Entry 3:
 
 I spent 1 hour reseaching parts and grabbing cad files, then i spent another 2 hours actually putting them onto the pcb so that it wouldnt be a hassle later on. Eventually I made this vv
 
-![](images/3DB.png)
-![](images/3DD.png)
-![](images/3DF.png)
-![](images/3DFF.png)
+![](Images/3DB.png)
+![](Images/3DD.png)
+![](Images/3DF.png)
+![](Images/3DFF.png)
 
 Time spent: 3h
 
 Entry 4: I completed the case, It looks pretty awesome. Nothing like I made before. I feel kinda sad that I probably won't ever be able to make something like that. But then again. Making things like the helps me to become a better cadder and pcb maker!
 Here are some images of the case. I really hope you enjoyed it!
 
-![](images/3DFM.png)
-![](images/3DS.png)
-![](images/3DSCU.png)
-![](images/3DSM.png)
-![](images/3DSR.png)
-![](images/3DT.png)
+![](Images/3DFM.png)
+![](Images/3DS.png)
+![](Images/3DSCU.png)
+![](Images/3DSM.png)
+![](Images/3DSR.png)
+![](Images/3DT.png)
 
 Time spent: 4h
