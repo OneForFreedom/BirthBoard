@@ -3,7 +3,7 @@ title: BirthBoard
 author: One For Freedom
 description: A birthday cake themed keyboard with a oled counting the days down to your birthday.
 created_at: 14/08/2025 [DD/MM/YYYY]
-Total time spent : 10h
+Total time spent : 11hrs
 ---
 
 Did I forget her birthday?...
@@ -43,7 +43,7 @@ I spent 1 hour reseaching parts and grabbing cad files, then i spent another 2 h
 Time spent: 3h
 
 Entry 4: I completed the case, It looks pretty awesome. Nothing like I made before. I feel kinda sad that I probably won't ever be able to make something like that. But then again. Making things like the helps me to become a better cadder and pcb maker!
-Here are some images of the case. I really hope you enjoyed it!
+Here are some images of the case. 
 
 ![](Images/3DD.png)
 ![](Images/3DF.png)
@@ -54,3 +54,11 @@ Here are some images of the case. I really hope you enjoyed it!
 ![](Images/3DT.png)
 
 Time spent: 4h
+
+Entry 5: 
+
+I forgot to mention.. I spent 1 hour making firmware for the keyboard. I used arduino since I am relatively comfortable with it. But you can use kmk or qmk if you want.
+
+Time taken: 1h
+
+Well.. That's the end.. I really hope you enjoyed it!
